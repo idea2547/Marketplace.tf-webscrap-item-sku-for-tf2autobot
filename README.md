@@ -10,6 +10,5 @@ This program is sku extraction from the marketplace.tf to get the item sku numbe
 
 
 Usage:
-  you can found a item_data.txt this file is use to collect sku information (!add sku=<>) of the item to use with your steam bot  
-  In the item_data.txt file use Ctrl+F to search for item like hat, strange etc..
+  you can found a item_data.txt this file is use to collect sku information to use with your steam bot.
 
